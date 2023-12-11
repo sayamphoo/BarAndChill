@@ -1,4 +1,5 @@
 project.env
 key/
 enf
+.env
 resource/
